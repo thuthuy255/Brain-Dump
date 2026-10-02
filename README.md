@@ -58,3 +58,4 @@ Truy cập ngay trên trình duyệt: **`http://localhost:5173`**
 8. **What-If Simulation**: Mô phỏng khối lượng tải khi nhận thêm 10 giờ làm việc/tuần.
 9. **Cảnh báo quá tải (Workload Banner)** & **Báo cáo Streak / Thống kê tuần**.
 "# Brain-Dump" 
+"# Brain-Dump" 
